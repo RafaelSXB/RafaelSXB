@@ -1,6 +1,6 @@
 #  RafaelSXB trilhando caminho de Dev
 
-* #### 🛠Trabalhando como HelpDesk
+* #### 🛠Trabalhando como Tecnico de suporte I
 
 * #### 🚀Almejando Desenvolvedor FullStack
 
