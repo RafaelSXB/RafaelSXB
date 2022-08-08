@@ -2,9 +2,9 @@
 
 * #### 🛠Trabalhando como Tecnico de suporte I
 
-* #### 🚀Almejando Desenvolvedor FullStack
+* #### 🚀Almejando Desenvolvedor FullStack JS
 
-* #### 💻Estudando atualmente o BootCamp Carrefour ( FrontEnd React / BackEnd Java Spring )
+* #### 💻Aprendendo ( FrontEnd React / Back End Node JS )
 
 <br>
 <div align="center">
