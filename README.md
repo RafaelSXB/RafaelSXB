@@ -1,6 +1,6 @@
 #  RafaelSXB Analyst System
 
-* #### 🛠Abalista de sistemas e suporte
+* #### 🛠Analista de sistemas e suporte
 
 * #### 🚀Desenvolver Java
 
