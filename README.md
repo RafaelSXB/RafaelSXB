@@ -1,10 +1,10 @@
 #  RafaelSXB trilhando caminho de Dev
 
-* #### 🛠Trabalhando como Tecnico de suporte I
+* #### 🛠Abalista de sistemas e suporte
 
-* #### 🚀Almejando Desenvolvedor FullStack JS
+* #### 🚀Desenvolver Java
 
-* #### 💻Aprendendo ( FrontEnd React / Back End Node JS )
+* #### 💻Focando ( FrontEnd Angular / Back End Java )
 
 <br>
 <div align="center">
